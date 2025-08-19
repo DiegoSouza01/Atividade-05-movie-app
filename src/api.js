@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API_KEY = "6da4c57a20a9ff3cd17f8bc3f551d726";
+const API_KEY = `Insira a sua chave da api aqui`;
 const BASE_URL = "https://api.themoviedb.org/3";
 
 export const searchMovies = async (query, page = 1) => {
