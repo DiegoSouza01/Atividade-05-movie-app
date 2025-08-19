@@ -43,8 +43,8 @@ Para que a aplicação funcione, você precisa de uma conta no site [TMDB](https
 2. Solicite uma chave de API
 3. Copie sua chave
 4. Entre na pasta src
-5. Abra o arquivo App.jsx
-6. Na quinta linha deve encontrar a const ApiKey da seguinte maneira
+5. Abra o arquivo Api.js
+6. Na terceira linha deve encontrar a const ApiKey da seguinte maneira
 ```
 const ApiKey = 'Insira a sua chave da api aqui'
 ```
